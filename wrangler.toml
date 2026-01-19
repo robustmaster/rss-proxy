@@ -1,0 +1,7 @@
+name = "rss-proxy"
+main = "index.js"
+compatibility_date = "2026-01-19"
+
+[vars]
+# 提醒：部署后请在 Cloudflare 后台修改 TOKEN 变量以保证安全
+TOKEN = "mydefaulttoken"
