@@ -5,7 +5,7 @@
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/robustmaster/rss-proxy)
 
 > [!CAUTION]
-> ** 部署时请务必修改 TOKEN，或部署后前往 Cloudflare 控制台修改环境变量 `TOKEN`。 **
+> **部署时请务必修改 TOKEN，或部署后前往 Cloudflare 控制台修改环境变量 `TOKEN`。**
 
 ---
 
