@@ -2,7 +2,7 @@
 
 **基于 Cloudflare Workers 的极简 RSS 嗅探与代理工具。**
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/robustmaster/rss-proxy)
 
 ---
 
