@@ -4,6 +4,9 @@
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/robustmaster/rss-proxy)
 
+> [!CAUTION]
+> **部署后必做：** 请务必前往 Cloudflare 控制台修改环境变量 `TOKEN`。默认 Token 仅供首次部署占位，长期使用会导致你的代理接口处于无保护状态。
+
 ---
 
 ## 🎯 使用场景 (Use Cases)
